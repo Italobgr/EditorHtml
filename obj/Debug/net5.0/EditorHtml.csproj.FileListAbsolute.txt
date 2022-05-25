@@ -1,0 +1,16 @@
+C:\Users\Usuario\EditorHtml\bin\Debug\net5.0\EditorHtml.exe
+C:\Users\Usuario\EditorHtml\bin\Debug\net5.0\EditorHtml.deps.json
+C:\Users\Usuario\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
+C:\Users\Usuario\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
+C:\Users\Usuario\EditorHtml\bin\Debug\net5.0\EditorHtml.dll
+C:\Users\Usuario\EditorHtml\bin\Debug\net5.0\ref\EditorHtml.dll
+C:\Users\Usuario\EditorHtml\bin\Debug\net5.0\EditorHtml.pdb
+C:\Users\Usuario\EditorHtml\obj\Debug\net5.0\EditorHtml.csprojAssemblyReference.cache
+C:\Users\Usuario\EditorHtml\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\Usuario\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfo.cs
+C:\Users\Usuario\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\EditorHtml\obj\Debug\net5.0\EditorHtml.dll
+C:\Users\Usuario\EditorHtml\obj\Debug\net5.0\ref\EditorHtml.dll
+C:\Users\Usuario\EditorHtml\obj\Debug\net5.0\EditorHtml.pdb
+C:\Users\Usuario\EditorHtml\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache
