@@ -30,7 +30,7 @@ namespace EditorHtml
 
             for (int lines = 0;lines <=10; lines++)
             {
-                Console.Write("|");//esta errado depois eu corrijo
+                Console.Write("|");//está errado depois eu corrijo
             }
 
         }
